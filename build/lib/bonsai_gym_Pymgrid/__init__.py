@@ -5,4 +5,4 @@ gym as a simulator for Bonsai BRAIN.
 
 # pyright: reportUnusedImport=false
 
-from .gym_simulator3 import GymSimulator3
+from .gym_simulator3_pymgrid import GymSimulator3

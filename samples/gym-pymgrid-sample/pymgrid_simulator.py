@@ -1,9 +1,7 @@
 import sys
 import logging
 from microsoft_bonsai_api.simulator.client import BonsaiClientConfig
-from bonsai_gym_Pymgrid import GymSimulator3
-
-
+from bonsai_gym_pymgrid import GymSimulator3
 
 log = logging.getLogger("gym_simulator")
 log.setLevel(logging.DEBUG)

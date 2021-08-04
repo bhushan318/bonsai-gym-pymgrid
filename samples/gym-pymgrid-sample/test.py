@@ -1,2 +1,1 @@
-import sys
-print(sys.argv)
+import bonsai_gym_pymgrid
