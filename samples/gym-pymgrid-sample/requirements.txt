@@ -1,5 +1,5 @@
 git+https://github.com/microsoft/bonsai-common
-git+https://github.com/microsoft/bonsai-gym-pymgrid
+git+https://github.com/bhushan318/bonsai-gym-pymgrid
 git+https://github.com/Total-RD/pymgrid/
 cvxpy==1.1.14
 statsmodels==0.12.0
