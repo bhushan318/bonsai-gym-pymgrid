@@ -1,8 +1,0 @@
-README.md
-setup.cfg
-setup.py
-bonsai_gym_pymgrid/bonsai_gym_pymgrid.egg-info/PKG-INFO
-bonsai_gym_pymgrid/bonsai_gym_pymgrid.egg-info/SOURCES.txt
-bonsai_gym_pymgrid/bonsai_gym_pymgrid.egg-info/dependency_links.txt
-bonsai_gym_pymgrid/bonsai_gym_pymgrid.egg-info/requires.txt
-bonsai_gym_pymgrid/bonsai_gym_pymgrid.egg-info/top_level.txt

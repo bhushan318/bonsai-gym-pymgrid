@@ -1,3 +1,0 @@
-git+https://github.com/microsoft/bonsai-common
-git+https://github.com/bhushan318/bonsai-gym-pymgrid
-git+https://github.com/Total-RD/pymgrid
